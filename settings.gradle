@@ -1,2 +1,3 @@
+include ':detectfridalib'
 include ':app'
 rootProject.name='DetectFrida'
